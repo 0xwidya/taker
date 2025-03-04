@@ -697,3 +697,15 @@
 3/4/2025 | 1:38:24 AM | INFO | Trying to check user miner status... 
 3/4/2025 | 1:38:25 AM | INFO | Last mining time: 3/3/2025, 1:42:54 AM
 3/4/2025 | 1:38:25 AM | WARN | Mining already started, next mining time is: 3/4/2025, 1:42:54 AM
+3/4/2025 | 4:23:48 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/4/2025 | 4:23:48 AM | INFO | Start process for wallet 0xc17e233b0a5E5b4C354901C90307038E92910f25 
+3/4/2025 | 4:23:49 AM | INFO | Trying To Login for wallet: 0xc17e233b0a5E5b4C354901C90307038E92910f25 
+3/4/2025 | 4:23:50 AM | INFO | Login successful... 
+3/4/2025 | 4:23:50 AM | INFO | Trying to check user info... 
+3/4/2025 | 4:23:50 AM | INFO | User ID: 21434648 | Twitter: @widyafanisia | Total Points: 288000 
+3/4/2025 | 4:23:50 AM | INFO | Trying to check user miner status... 
+3/4/2025 | 4:24:51 AM | INFO | Last mining time: 3/3/2025, 1:42:54 AM
+3/4/2025 | 4:24:51 AM | INFO | Trying to start Mining for wallet: 0xc17e233b0a5E5b4C354901C90307038E92910f25 
+3/4/2025 | 4:25:52 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/4/2025 | 4:25:52 AM | INFO | Trying to activate mining on-chain for wallet: 0xc17e233b0a5E5b4C354901C90307038E92910f25 
+3/4/2025 | 4:25:58 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8650f1861460313158f56bc7775d3eb34a53e50da8048471525d41c226de52d5 
