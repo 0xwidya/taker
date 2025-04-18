@@ -3171,3 +3171,12 @@
 4/17/2025 | 8:23:04 PM | INFO | Trying to activate mining on-chain for wallet: 0xc17e233b0a5E5b4C354901C90307038E92910f25 
 4/17/2025 | 8:23:04 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:23:04 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:41:21 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:41:21 AM | INFO | Start process for wallet 0xc17e233b0a5E5b4C354901C90307038E92910f25 
+4/18/2025 | 1:41:21 AM | INFO | Trying To Login for wallet: 0xc17e233b0a5E5b4C354901C90307038E92910f25 
+4/18/2025 | 1:41:22 AM | INFO | Login successful... 
+4/18/2025 | 1:41:22 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:41:23 AM | INFO | User ID: 21434648 | Twitter: @widyafanisia | Total Points: 1224000 
+4/18/2025 | 1:41:23 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:41:32 AM | INFO | Last mining time: 4/17/2025, 12:41:45 PM
+4/18/2025 | 1:41:32 AM | WARN | Mining already started, next mining time is: 4/18/2025, 12:41:45 PM
